@@ -23,9 +23,12 @@ My current focus is on mobile app development, especially with iOS. My goal is t
 - SQL
 - Python
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCazorro&langs_count=10)
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferkuellar&show_icons=true&locale=en" alt="ferkuellar" /></p>
 
 
 <!--
