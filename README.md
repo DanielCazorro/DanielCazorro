@@ -1,5 +1,8 @@
-### Hi there 👋
+# <a href="#">Daniel Cazorro</a>
 
+![](https://komarev.com/ghpvc/?username=DanielCazorro)
+ 
+Full Stack Mobile Developer | iOS | Android | Git | Full Stack Junior Developer | Python | HTML | SQL
 <!--
 **DanielCazorro/DanielCazorro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
