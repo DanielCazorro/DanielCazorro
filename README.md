@@ -21,6 +21,7 @@ My current focus is on mobile app development, especially with iOS. My goal is t
 
 - Swfit
 - Xcode
+- Kotlin
 - UX
 - UI
 - Git
