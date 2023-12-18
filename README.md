@@ -14,9 +14,8 @@ My current focus is on mobile app development, especially with iOS. My goal is t
 - [KeepCoding](https://keepcoding.io/) (Full Stack Mobile Develpoer) -> IN PROGRESS
 - [KeepCoding](https://keepcoding.io/) (Full Stack Junior Developer)
 - [B1 English level](https://www.eoimalaga.com/web/) -> EOI Málaga
-- Grado Superior TSAAFD
 - [Grado Superior TSAAFD](https://www.todofp.es/que-estudiar/loe/actividades-fisicas-deportivas/ensenanza-animacion-sociodeportiva.html)
-- Bachillerato Científico Técnico
+- [Bachillerato Científico Técnico](https://iessantabarbara.es/zona-alumnado-y-familias/bachillerato/)
 
 <div align="center">
   <img width="150" src="https://media1.tenor.com/m/5QQ-nH5AeyAAAAAC/apple-dust-apple-apple-dust-dust.gif"  />
@@ -73,14 +72,6 @@ My current focus is on mobile app development, especially with iOS. My goal is t
   <img src="https://github-readme-stats.vercel.app/api?username=DanielCazorro&show_icons=true&locale=en" alt="" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielcazorro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-## Social Media 💬
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/danielcfrias/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-
 
 <!--
 **DanielCazorro/DanielCazorro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
