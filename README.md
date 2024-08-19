@@ -11,7 +11,7 @@ My current focus is on mobile app development, especially with iOS. My goal is t
 
 ## Education 📖
 
-- [KeepCoding](https://keepcoding.io/) (Full Stack Mobile Develpoer) -> IN PROGRESS
+- [KeepCoding](https://keepcoding.io/) (Full Stack Mobile Develpoer)
 - [KeepCoding](https://keepcoding.io/) (Full Stack Junior Developer)
 - [B1 English level](https://www.eoimalaga.com/web/) -> EOI Málaga
 - [Grado Superior TSAAFD](https://www.todofp.es/que-estudiar/loe/actividades-fisicas-deportivas/ensenanza-animacion-sociodeportiva.html)
