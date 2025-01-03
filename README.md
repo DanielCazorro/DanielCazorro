@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=DanielCazorro)
  
-Full Stack Mobile Developer | iOS | | Swift | SwiftUI | UIKit | Android | Kotlin | UX | UI | Git | Full Stack Developer | Python | HTML | SQL
+Full Stack Mobile Developer | iOS | Swift | SwiftUI | UIKit | Android | Kotlin | UX | UI | Git | Full Stack Developer | Python | HTML | SQL
 
 ## About me 📚
 In recent years, I have expanded my career into the IT sector, a passion that I've always had.
