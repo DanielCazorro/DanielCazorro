@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=DanielCazorro)
  
-Full Stack Mobile Developer | iOS | Android | UX | UI | Git | Full Stack Junior Developer | Python | HTML | SQL
+Full Stack Mobile Developer | iOS | | Swift | SwiftUI | UIKit | Android | Kotlin | UX | UI | Git | Full Stack Developer | Python | HTML | SQL
 
 ## About me 📚
 In recent years, I have expanded my career into the IT sector, a passion that I've always had.
@@ -12,7 +12,7 @@ My current focus is on mobile app development, especially with iOS. My goal is t
 ## Education 📖
 
 - [KeepCoding](https://keepcoding.io/) (Full Stack Mobile Develpoer)
-- [KeepCoding](https://keepcoding.io/) (Full Stack Junior Developer)
+- [KeepCoding](https://keepcoding.io/) (Full Stack Developer)
 - [B1 English level](https://www.eoimalaga.com/web/) -> EOI Málaga
 - [Grado Superior TSAAFD](https://www.todofp.es/que-estudiar/loe/actividades-fisicas-deportivas/ensenanza-animacion-sociodeportiva.html)
 - [Bachillerato Científico Técnico](https://iessantabarbara.es/zona-alumnado-y-familias/bachillerato/)
@@ -57,6 +57,8 @@ My current focus is on mobile app development, especially with iOS. My goal is t
 
 
 - Swfit
+- SwiftUI
+- UIKit
 - Xcode
 - Kotlin
 - UX
@@ -65,6 +67,7 @@ My current focus is on mobile app development, especially with iOS. My goal is t
 - MVVM
 - SQL
 - Python
+- HTML5
 
 ## Languages and Tools 🎯
 
